@@ -1,0 +1,13 @@
+\\Mac\Home\Documents\семестр 6\ООАП\OOAP.Gateway\PatternGateway\PatternGateway\bin\Debug\PatternGateway.exe.config
+\\Mac\Home\Documents\семестр 6\ООАП\OOAP.Gateway\PatternGateway\PatternGateway\bin\Debug\PatternGateway.exe
+\\Mac\Home\Documents\семестр 6\ООАП\OOAP.Gateway\PatternGateway\PatternGateway\bin\Debug\PatternGateway.pdb
+\\Mac\Home\Documents\семестр 6\ООАП\OOAP.Gateway\PatternGateway\PatternGateway\bin\Debug\Newtonsoft.Json.dll
+\\Mac\Home\Documents\семестр 6\ООАП\OOAP.Gateway\PatternGateway\PatternGateway\bin\Debug\Newtonsoft.Json.xml
+\\Mac\Home\Documents\семестр 6\ООАП\OOAP.Gateway\PatternGateway\PatternGateway\obj\Debug\PatternGateway.csproj.AssemblyReference.cache
+\\Mac\Home\Documents\семестр 6\ООАП\OOAP.Gateway\PatternGateway\PatternGateway\obj\Debug\PatternGateway.Form1.resources
+\\Mac\Home\Documents\семестр 6\ООАП\OOAP.Gateway\PatternGateway\PatternGateway\obj\Debug\PatternGateway.Properties.Resources.resources
+\\Mac\Home\Documents\семестр 6\ООАП\OOAP.Gateway\PatternGateway\PatternGateway\obj\Debug\PatternGateway.csproj.GenerateResource.cache
+\\Mac\Home\Documents\семестр 6\ООАП\OOAP.Gateway\PatternGateway\PatternGateway\obj\Debug\PatternGateway.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\семестр 6\ООАП\OOAP.Gateway\PatternGateway\PatternGateway\obj\Debug\PatternGateway.csproj.CopyComplete
+\\Mac\Home\Documents\семестр 6\ООАП\OOAP.Gateway\PatternGateway\PatternGateway\obj\Debug\PatternGateway.exe
+\\Mac\Home\Documents\семестр 6\ООАП\OOAP.Gateway\PatternGateway\PatternGateway\obj\Debug\PatternGateway.pdb

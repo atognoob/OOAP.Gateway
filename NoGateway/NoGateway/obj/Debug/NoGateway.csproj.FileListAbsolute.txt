@@ -1,0 +1,13 @@
+\\Mac\Home\Documents\семестр 6\ООАП\OOAP.Gateway\NoGateway\NoGateway\bin\Debug\NoGateway.exe.config
+\\Mac\Home\Documents\семестр 6\ООАП\OOAP.Gateway\NoGateway\NoGateway\bin\Debug\NoGateway.exe
+\\Mac\Home\Documents\семестр 6\ООАП\OOAP.Gateway\NoGateway\NoGateway\bin\Debug\NoGateway.pdb
+\\Mac\Home\Documents\семестр 6\ООАП\OOAP.Gateway\NoGateway\NoGateway\bin\Debug\Newtonsoft.Json.dll
+\\Mac\Home\Documents\семестр 6\ООАП\OOAP.Gateway\NoGateway\NoGateway\bin\Debug\Newtonsoft.Json.xml
+\\Mac\Home\Documents\семестр 6\ООАП\OOAP.Gateway\NoGateway\NoGateway\obj\Debug\NoGateway.csproj.AssemblyReference.cache
+\\Mac\Home\Documents\семестр 6\ООАП\OOAP.Gateway\NoGateway\NoGateway\obj\Debug\NoGateway.Form1.resources
+\\Mac\Home\Documents\семестр 6\ООАП\OOAP.Gateway\NoGateway\NoGateway\obj\Debug\NoGateway.Properties.Resources.resources
+\\Mac\Home\Documents\семестр 6\ООАП\OOAP.Gateway\NoGateway\NoGateway\obj\Debug\NoGateway.csproj.GenerateResource.cache
+\\Mac\Home\Documents\семестр 6\ООАП\OOAP.Gateway\NoGateway\NoGateway\obj\Debug\NoGateway.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\семестр 6\ООАП\OOAP.Gateway\NoGateway\NoGateway\obj\Debug\NoGateway.csproj.CopyComplete
+\\Mac\Home\Documents\семестр 6\ООАП\OOAP.Gateway\NoGateway\NoGateway\obj\Debug\NoGateway.exe
+\\Mac\Home\Documents\семестр 6\ООАП\OOAP.Gateway\NoGateway\NoGateway\obj\Debug\NoGateway.pdb

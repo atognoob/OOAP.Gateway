@@ -1,0 +1,13 @@
+\\Mac\Home\Documents\семестр 6\ООАП\OOAP.Gateway\OpenWeatherGateway\OpenWeatherGateway\bin\Debug\OpenWeatherGateway.exe.config
+\\Mac\Home\Documents\семестр 6\ООАП\OOAP.Gateway\OpenWeatherGateway\OpenWeatherGateway\bin\Debug\OpenWeatherGateway.exe
+\\Mac\Home\Documents\семестр 6\ООАП\OOAP.Gateway\OpenWeatherGateway\OpenWeatherGateway\bin\Debug\OpenWeatherGateway.pdb
+\\Mac\Home\Documents\семестр 6\ООАП\OOAP.Gateway\OpenWeatherGateway\OpenWeatherGateway\bin\Debug\Newtonsoft.Json.dll
+\\Mac\Home\Documents\семестр 6\ООАП\OOAP.Gateway\OpenWeatherGateway\OpenWeatherGateway\bin\Debug\Newtonsoft.Json.xml
+\\Mac\Home\Documents\семестр 6\ООАП\OOAP.Gateway\OpenWeatherGateway\OpenWeatherGateway\obj\Debug\OpenWeatherGateway.csproj.AssemblyReference.cache
+\\Mac\Home\Documents\семестр 6\ООАП\OOAP.Gateway\OpenWeatherGateway\OpenWeatherGateway\obj\Debug\OpenWeatherGateway.Form1.resources
+\\Mac\Home\Documents\семестр 6\ООАП\OOAP.Gateway\OpenWeatherGateway\OpenWeatherGateway\obj\Debug\OpenWeatherGateway.Properties.Resources.resources
+\\Mac\Home\Documents\семестр 6\ООАП\OOAP.Gateway\OpenWeatherGateway\OpenWeatherGateway\obj\Debug\OpenWeatherGateway.csproj.GenerateResource.cache
+\\Mac\Home\Documents\семестр 6\ООАП\OOAP.Gateway\OpenWeatherGateway\OpenWeatherGateway\obj\Debug\OpenWeatherGateway.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\семестр 6\ООАП\OOAP.Gateway\OpenWeatherGateway\OpenWeatherGateway\obj\Debug\OpenWeatherGateway.csproj.CopyComplete
+\\Mac\Home\Documents\семестр 6\ООАП\OOAP.Gateway\OpenWeatherGateway\OpenWeatherGateway\obj\Debug\OpenWeatherGateway.exe
+\\Mac\Home\Documents\семестр 6\ООАП\OOAP.Gateway\OpenWeatherGateway\OpenWeatherGateway\obj\Debug\OpenWeatherGateway.pdb
